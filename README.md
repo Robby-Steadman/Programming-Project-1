@@ -29,7 +29,12 @@ The Cybersecurity Incidents & Data Breaches 2024 dataset lists individual breach
 We chose this dataset because it shows real-world data on cyberattacks, letting you see which companies lose the most money and spot trends in ransoms and fines.
 
 ## How to Run
-1. **Clone the repository:**
+To run this project, first navigate to the project folder on your local machine. All project files, including the Jupyter Notebook, should be included in the folder.
 
-```bash
-git clone https://github.com/Robby-Steadman/Programming-Project.git
+Next, ensure that all the files are tracked by Git by adding them to the staging area and committing them with an initial commit message. This step saves a snapshot of the project files and ensures that all necessary files are included.
+
+The main branch should be set as the active branch to match GitHub’s default, which allows for proper version control.
+
+Once the local repository is set up, link it to the GitHub repository by specifying the repository URL. This connection allows you to push your local files to GitHub so that others can access the project.
+
+Finally, push the committed files to the main branch on GitHub. Once pushed, the notebook and all project files will be available on the repository, and the notebook can be opened and run using Jupyter Notebook.
