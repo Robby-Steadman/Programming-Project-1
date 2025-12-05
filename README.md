@@ -29,4 +29,4 @@ The Cybersecurity Incidents & Data Breaches 2024 dataset lists individual breach
 We chose this dataset because it shows real-world data on cyberattacks, letting you see which companies lose the most money and spot trends in ransoms and fines.
 
 ## How to Run
-Open the Jupyter Notebook (`cybersecurity_analysis.ipynb`) in Jupyter Notebook and run all cells to reproduce the charts and analysis.
+??????
